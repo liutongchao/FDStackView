@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9EFCFEFB1793A3815FD82F3F0D1B904E5F5187A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9EFCFEFB1793A3815FD82F3F0D1B904E5F5187A6" : 9223372036854775807,
+    "EF8AAB5D48718313968E67A84B50952F6676DAC9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "602B79DF-AA65-4133-9123-477C947DB1F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9EFCFEFB1793A3815FD82F3F0D1B904E5F5187A6" : "FDStackView\/",
+    "EF8AAB5D48718313968E67A84B50952F6676DAC9" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FDStackView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FDStackView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liutongchao\/FDStackView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9EFCFEFB1793A3815FD82F3F0D1B904E5F5187A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liutongchao\/SwiftPos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF8AAB5D48718313968E67A84B50952F6676DAC9"
+    }
+  ]
+}
