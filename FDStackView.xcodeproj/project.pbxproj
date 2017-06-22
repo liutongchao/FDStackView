@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		579020AD1EFB5F880058E189 /* FDStackView.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020AB1EFB5F880058E189 /* FDStackView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020C41EFB5FC10058E189 /* FDGapLayoutGuide.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B41EFB5FC10058E189 /* FDGapLayoutGuide.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020C51EFB5FC10058E189 /* FDGapLayoutGuide.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020B51EFB5FC10058E189 /* FDGapLayoutGuide.m */; };
 		579020C61EFB5FC10058E189 /* FDLayoutSpacer.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B61EFB5FC10058E189 /* FDLayoutSpacer.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -28,7 +27,6 @@
 
 /* Begin PBXFileReference section */
 		579020A81EFB5F880058E189 /* FDStackView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FDStackView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		579020AB1EFB5F880058E189 /* FDStackView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FDStackView.h; sourceTree = "<group>"; };
 		579020AC1EFB5F880058E189 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		579020B41EFB5FC10058E189 /* FDGapLayoutGuide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDGapLayoutGuide.h; sourceTree = "<group>"; };
 		579020B51EFB5FC10058E189 /* FDGapLayoutGuide.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDGapLayoutGuide.m; sourceTree = "<group>"; };
@@ -79,7 +77,6 @@
 		579020AA1EFB5F880058E189 /* FDStackView */ = {
 			isa = PBXGroup;
 			children = (
-				579020AB1EFB5F880058E189 /* FDStackView.h */,
 				579020AC1EFB5F880058E189 /* Info.plist */,
 			);
 			path = FDStackView;
@@ -123,7 +120,6 @@
 				579020CA1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.h in Headers */,
 				579020CE1EFB5FC10058E189 /* FDStackViewExtensions.h in Headers */,
 				579020CC1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.h in Headers */,
-				579020AD1EFB5F880058E189 /* FDStackView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
