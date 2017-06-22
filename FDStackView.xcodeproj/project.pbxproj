@@ -8,21 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		579020AD1EFB5F880058E189 /* FDStackView.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020AB1EFB5F880058E189 /* FDStackView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		579020C41EFB5FC10058E189 /* FDGapLayoutGuide.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B41EFB5FC10058E189 /* FDGapLayoutGuide.h */; };
+		579020C41EFB5FC10058E189 /* FDGapLayoutGuide.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B41EFB5FC10058E189 /* FDGapLayoutGuide.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020C51EFB5FC10058E189 /* FDGapLayoutGuide.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020B51EFB5FC10058E189 /* FDGapLayoutGuide.m */; };
-		579020C61EFB5FC10058E189 /* FDLayoutSpacer.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B61EFB5FC10058E189 /* FDLayoutSpacer.h */; };
+		579020C61EFB5FC10058E189 /* FDLayoutSpacer.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B61EFB5FC10058E189 /* FDLayoutSpacer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020C71EFB5FC10058E189 /* FDLayoutSpacer.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020B71EFB5FC10058E189 /* FDLayoutSpacer.m */; };
-		579020C81EFB5FC10058E189 /* FDStackView.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B81EFB5FC10058E189 /* FDStackView.h */; };
+		579020C81EFB5FC10058E189 /* FDStackView.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020B81EFB5FC10058E189 /* FDStackView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020C91EFB5FC10058E189 /* FDStackView.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020B91EFB5FC10058E189 /* FDStackView.m */; };
-		579020CA1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020BA1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.h */; };
+		579020CA1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020BA1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020CB1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020BB1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.m */; };
-		579020CC1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020BC1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.h */; };
+		579020CC1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020BC1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020CD1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020BD1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.m */; };
-		579020CE1EFB5FC10058E189 /* FDStackViewExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020BE1EFB5FC10058E189 /* FDStackViewExtensions.h */; };
+		579020CE1EFB5FC10058E189 /* FDStackViewExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020BE1EFB5FC10058E189 /* FDStackViewExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020CF1EFB5FC10058E189 /* FDStackViewExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020BF1EFB5FC10058E189 /* FDStackViewExtensions.m */; };
-		579020D01EFB5FC10058E189 /* FDStackViewLayoutArrangement.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020C01EFB5FC10058E189 /* FDStackViewLayoutArrangement.h */; };
+		579020D01EFB5FC10058E189 /* FDStackViewLayoutArrangement.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020C01EFB5FC10058E189 /* FDStackViewLayoutArrangement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020D11EFB5FC10058E189 /* FDStackViewLayoutArrangement.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020C11EFB5FC10058E189 /* FDStackViewLayoutArrangement.m */; };
-		579020D21EFB5FC10058E189 /* FDTransformLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020C21EFB5FC10058E189 /* FDTransformLayer.h */; };
+		579020D21EFB5FC10058E189 /* FDTransformLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 579020C21EFB5FC10058E189 /* FDTransformLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		579020D31EFB5FC10058E189 /* FDTransformLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 579020C31EFB5FC10058E189 /* FDTransformLayer.m */; };
 /* End PBXBuildFile section */
 
@@ -118,12 +118,12 @@
 				579020D21EFB5FC10058E189 /* FDTransformLayer.h in Headers */,
 				579020C61EFB5FC10058E189 /* FDLayoutSpacer.h in Headers */,
 				579020D01EFB5FC10058E189 /* FDStackViewLayoutArrangement.h in Headers */,
-				579020C41EFB5FC10058E189 /* FDGapLayoutGuide.h in Headers */,
 				579020C81EFB5FC10058E189 /* FDStackView.h in Headers */,
-				579020CE1EFB5FC10058E189 /* FDStackViewExtensions.h in Headers */,
+				579020C41EFB5FC10058E189 /* FDGapLayoutGuide.h in Headers */,
 				579020CA1EFB5FC10058E189 /* FDStackViewAlignmentLayoutArrangement.h in Headers */,
-				579020AD1EFB5F880058E189 /* FDStackView.h in Headers */,
+				579020CE1EFB5FC10058E189 /* FDStackViewExtensions.h in Headers */,
 				579020CC1EFB5FC10058E189 /* FDStackViewDistributionLayoutArrangement.h in Headers */,
+				579020AD1EFB5F880058E189 /* FDStackView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

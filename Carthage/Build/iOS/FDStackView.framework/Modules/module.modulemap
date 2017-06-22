@@ -1,0 +1,6 @@
+framework module FDStackView {
+  umbrella header "FDStackView.h"
+
+  export *
+  module * { export * }
+}
